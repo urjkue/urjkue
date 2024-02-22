@@ -6,7 +6,7 @@ I'm a passionate backend Dev and Finance . I love exploring new ideas, learning 
 ## Most Used Languages
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=urjkue&layout=compact&theme=dark)
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
 ## Skills
 -  [Game Development](https://urjkue.itch.io/barry-the-fireman)
